@@ -1,0 +1,30 @@
+{
+  "name": "vue-comps",
+  "version": "1.0.0",
+  "description": "vue tools",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daywrite/vue-comps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daywrite/vue-comps/issues"
+  },
+  "homepage": "https://github.com/daywrite/vue-comps#readme",
+  "dependencies": {
+    "karma": "^1.7.1"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
